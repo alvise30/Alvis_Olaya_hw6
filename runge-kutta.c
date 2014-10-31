@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <math.h>
-#include "derivative.h"
+#include "functions.h"
 
 int rungekutta_step(int i, double *x,double *y,double *t, double h)
 {

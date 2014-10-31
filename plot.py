@@ -1,8 +1,6 @@
 import pylab
 import numpy
 
-print ' Python no es muy rapido graficando, por favor espere...'
-
 for i in range(30):
 
 	data = numpy.loadtxt(open(str(i+1)+'.dat', 'r'))

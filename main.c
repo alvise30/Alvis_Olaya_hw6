@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "dsolve.h"
+#include "solve.h"
 	 
 
 int main ()
